@@ -1,0 +1,28 @@
+{
+  "productName": "QA Sample Cotton Tote Bag",
+  "productSuggestion": "cotton tote",
+  "quantity": "100",
+  "unit": "Pieces",
+  "enrichment": {
+    "minimumAttributes": 5,
+    "customAttributePrefix": "QA test attribute",
+    "customAttributeValuePrefix": "Synthetic value",
+    "leadTime": "under 7 days",
+    "recurringOrder": "One-time",
+    "shippingTerm": "CIF Cost, Insurance and Freight",
+    "budgetChoice": "Yes, set a range",
+    "budgetFrom": "10",
+    "budgetTo": "20",
+    "currency": "₹ - INR",
+    "paymentTerm": "LC-Letter of Credit",
+    "destinationCountry": "India",
+    "destinationCity": "Chennai",
+    "additionalDetails": "QA-only synthetic details. No supplier follow-up requested."
+  },
+  "expected": {
+    "basicProductRequired": "Product name is required",
+    "basicUnitRequired": "Unit is required",
+    "publishedAlert": "Your buying request was published.",
+    "publishedStatus": "Submitted. Your Hot Lead is under review"
+  }
+}

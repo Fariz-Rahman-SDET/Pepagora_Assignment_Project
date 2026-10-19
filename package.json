@@ -1,0 +1,20 @@
+{
+  "name": "pepagora-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "playwright test",
+    "auth:setup": "node scripts/save-pepagora-session.cjs",
+    "report:open": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "typescript": "^5.9.3"
+  }
+}

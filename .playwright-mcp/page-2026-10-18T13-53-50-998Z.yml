@@ -1,0 +1,327 @@
+- generic [ref=f3e1]:
+  - generic [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - generic:
+        - generic [ref=f3e5]:
+          - generic [ref=f3e6]:
+            - link [ref=f3e7] [cursor=pointer]:
+              - /url: /
+              - img "Logo" [ref=f3e8]
+            - generic [ref=f3e9]: All Categories
+          - generic [ref=f3e16]:
+            - img [ref=f3e18] [cursor=pointer]
+            - searchbox "Search for Product and Services" [ref=f3e20]
+          - generic [ref=f3e22]:
+            - generic [ref=f3e23]:
+              - button "en English" [ref=f3e26] [cursor=pointer]:
+                - generic [ref=f3e27]:
+                  - img "en" [ref=f3e28]
+                  - generic [ref=f3e29]: English
+              - generic [ref=f3e30]:
+                - img "Country Flag" [ref=f3e31] [cursor=pointer]
+                - generic [ref=f3e32]: IN
+              - generic [ref=f3e34] [cursor=pointer]:
+                - generic [ref=f3e35]: ₹
+                - button [ref=f3e36]
+            - generic [ref=f3e39]:
+              - button "Buy" [ref=f3e40] [cursor=pointer]
+              - button "Sell" [ref=f3e44] [cursor=pointer]
+            - generic [ref=f3e49]:
+              - link "Login" [ref=f3e50] [cursor=pointer]:
+                - /url: /authenticate?mode=login
+              - link "Join Free" [ref=f3e51] [cursor=pointer]:
+                - /url: /authenticate?mode=signup
+        - generic [ref=f3e52]:
+          - tablist [ref=f3e53]:
+            - tab "Apparel & Fashion" [selected] [ref=f3e54] [cursor=pointer]
+            - tab "Automotive & Transport" [ref=f3e58] [cursor=pointer]
+            - tab "Construction" [ref=f3e63] [cursor=pointer]
+            - tab "Electronics & Electrical" [ref=f3e70] [cursor=pointer]
+            - tab "Food & Agriculture" [ref=f3e74] [cursor=pointer]
+            - tab "Health & Personal Care" [ref=f3e78] [cursor=pointer]
+            - tab "Home & Lifestyle" [ref=f3e83] [cursor=pointer]
+            - tab "Industrial Equipment & Machinery" [ref=f3e89] [cursor=pointer]
+            - tab "Office Supplies & Equipment" [ref=f3e102] [cursor=pointer]
+            - tab "Packaging & Printing" [ref=f3e108] [cursor=pointer]
+            - tab "Raw Materials & Chemicals" [ref=f3e114] [cursor=pointer]
+            - tab "Services & Support" [ref=f3e120] [cursor=pointer]
+            - tab "Sports & Entertainment" [ref=f3e125] [cursor=pointer]
+            - tab "Tools & Hardware" [ref=f3e129] [cursor=pointer]
+          - tabpanel [ref=f3e134]:
+            - generic [ref=f3e135]:
+              - generic [ref=f3e136]: Apparel & Fashion
+              - button "Close category" [ref=f3e137] [cursor=pointer]
+            - generic "Loading subcategories" [ref=f3e141]
+      - generic [ref=f3e143]:
+        - generic [ref=f3e145]:
+          - generic [ref=f3e146] [cursor=pointer]:
+            - link [ref=f3e147]:
+              - /url: /
+            - generic [ref=f3e150]: /
+          - generic [ref=f3e151]: post-buying-request
+        - generic [ref=f3e408]:
+          - generic [ref=f3e409]:
+            - heading "Post Buying Requirement" [level=3] [ref=f3e410]
+            - generic "Post buying request steps" [ref=f3e411]:
+              - generic [ref=f3e414]:
+                - generic [ref=f3e416]: ✓
+                - generic [ref=f3e417]: Quick Post
+              - generic [ref=f3e420]:
+                - generic [aria-hidden] [ref=f3e421]: "2"
+                - generic [ref=f3e422]: Enrich for Better Responses
+              - generic [ref=f3e426]:
+                - generic [aria-hidden] [ref=f3e427]: "3"
+                - generic [ref=f3e428]: Live & Receiving Quotes
+          - generic [ref=f3e430]:
+            - generic [ref=f3e433]:
+              - paragraph [ref=f3e434]: Phase 2 of 2 - Enrichment
+              - heading "Help sellers give you their best quote" [level=1] [ref=f3e435]
+              - paragraph [ref=f3e436]: QA Sample Cotton Tote Bag - 1 Piece
+            - generic [ref=f3e437]:
+              - generic [ref=f3e438]: "Lead score: 35/100"
+              - button "Skip & post basic →" [ref=f3e439] [cursor=pointer]
+          - generic [ref=f3e440]:
+            - main [ref=f3e441]:
+              - generic [ref=f3e442]:
+                - heading "Smart Questions" [level=2] [ref=f3e443]
+                - paragraph [ref=f3e444]: Sellers say these are the top details needed to give you an accurate quote.
+                - generic [ref=f3e445]:
+                  - generic [ref=f3e446]:
+                    - generic [ref=f3e447]: What is the primary use for these tote bags? *
+                    - generic [ref=f3e448]:
+                      - button "Retail resale" [ref=f3e449] [cursor=pointer]
+                      - button "Corporate gifting" [ref=f3e450] [cursor=pointer]
+                      - button "Event giveaways" [ref=f3e451] [cursor=pointer]
+                      - button "Promotional use" [ref=f3e452] [cursor=pointer]
+                      - button "+ Add value" [ref=f3e453] [cursor=pointer]
+                  - generic [ref=f3e454]:
+                    - generic [ref=f3e455]: What quantity are you looking to order? *
+                    - generic [ref=f3e456]:
+                      - button "100-500 units" [ref=f3e457] [cursor=pointer]
+                      - button "501-1000 units" [ref=f3e458] [cursor=pointer]
+                      - button "1001-5000 units" [ref=f3e459] [cursor=pointer]
+                      - button ">5000 units" [ref=f3e460] [cursor=pointer]
+                      - button "+ Add value" [ref=f3e461] [cursor=pointer]
+                  - generic [ref=f3e462]:
+                    - generic [ref=f3e463]: "'What is your target price range per unit? *"
+                    - generic [ref=f3e464]:
+                      - button "< $1" [ref=f3e465] [cursor=pointer]
+                      - button "$1 - $3" [ref=f3e466] [cursor=pointer]
+                      - button "$3 - $5" [ref=f3e467] [cursor=pointer]
+                      - button "> $5" [ref=f3e468] [cursor=pointer]
+                      - button "+ Add value" [ref=f3e469] [cursor=pointer]
+                  - button "Add More Attributes not in the list above? Add your own" [ref=f3e471] [cursor=pointer]:
+                    - generic [ref=f3e475]:
+                      - generic [ref=f3e476]: Add More Attributes
+                      - generic [ref=f3e477]: not in the list above? Add your own
+              - generic [ref=f3e478]:
+                - heading "Logistics & Destination" [level=2] [ref=f3e479]
+                - generic [ref=f3e480]: Required Lead Time
+                - generic [ref=f3e481]:
+                  - button "under 7 days" [ref=f3e482] [cursor=pointer]
+                  - button "7-14 days" [ref=f3e486] [cursor=pointer]
+                  - button "15-30 days" [ref=f3e487] [cursor=pointer]
+                  - button "Flexible" [ref=f3e488] [cursor=pointer]
+                - generic [ref=f3e489]: Is this a recurring order?
+                - generic [ref=f3e491]:
+                  - button "One-time" [ref=f3e492] [cursor=pointer]
+                  - button "Monthly recurring" [ref=f3e493] [cursor=pointer]
+                  - button "Quarterly" [ref=f3e494] [cursor=pointer]
+                - generic [ref=f3e495]: Recurring orders attract premium sellers and often unlock better pricing
+                - generic [ref=f3e496]:
+                  - generic [ref=f3e497]:
+                    - generic [ref=f3e498]: Destination country
+                    - textbox "e.g. India" [ref=f3e500]: India
+                  - generic [ref=f3e501]:
+                    - generic [ref=f3e502]: Port / city
+                    - textbox "e.g. Chennai" [ref=f3e504]: Mumbai, Maharashtra
+                - generic [ref=f3e505]: Preferred Shipping Terms
+                - generic [ref=f3e506]:
+                  - button "CIF Cost, Insurance and Freight" [ref=f3e507] [cursor=pointer]
+                  - button "FOB Free on Board" [ref=f3e508] [cursor=pointer]
+                  - button "DDP Delivered Duty Paid" [ref=f3e509] [cursor=pointer]
+                  - button "Any / Negotiable" [ref=f3e510] [cursor=pointer]
+              - generic [ref=f3e511]:
+                - heading "Budget & Payment" [level=2] [ref=f3e512]
+                - paragraph [ref=f3e513]: Do you want to share a budget? Sharing budget gets 40% more responses
+                - generic [ref=f3e514]:
+                  - button "Yes, set a range" [active] [ref=f3e515] [cursor=pointer]
+                  - button "No, I'll evaluate quotes" [ref=f3e516] [cursor=pointer]
+                - generic [ref=f3e583]:
+                  - generic [ref=f3e584]:
+                    - generic [ref=f3e585]: From
+                    - textbox "0" [ref=f3e587]
+                  - generic [ref=f3e588]:
+                    - generic [ref=f3e589]: To
+                    - textbox "0" [ref=f3e591]
+                  - generic [ref=f3e592]:
+                    - generic [ref=f3e593]: Currency
+                    - generic [ref=f3e594] [cursor=pointer]:
+                      - generic [ref=f3e595]: Select Currency
+                      - button "Select Currency" [ref=f3e596]
+                - generic [ref=f3e517]: Payment Terms You Accept
+                - generic [ref=f3e518]:
+                  - button "LC-Letter of Credit" [ref=f3e519] [cursor=pointer]
+                  - button "TT- Telegraphic Transfer" [ref=f3e520] [cursor=pointer]
+                  - button "100% Advanced" [ref=f3e521] [cursor=pointer]
+                  - button "50% Advance and 50% Dispatch" [ref=f3e522] [cursor=pointer]
+                  - button "Net 30/60" [ref=f3e523] [cursor=pointer]
+                  - button "Escrow" [ref=f3e524] [cursor=pointer]
+                  - button "Cash on delivery" [ref=f3e525] [cursor=pointer]
+                  - button "Custom Payment Terms" [ref=f3e526] [cursor=pointer]
+              - generic [ref=f3e527]:
+                - heading "Anything else?" [level=2] [ref=f3e528]
+                - generic [ref=f3e529]: Additional details
+                - textbox "Additional details suppliers should know…" [ref=f3e534]
+              - generic [ref=f3e535]:
+                - generic [aria-hidden] [ref=f3e536]: ⓘ
+                - paragraph [ref=f3e537]:
+                  - text: Your listing will be reviewed by our
+                  - strong [ref=f3e538]: AI moderation agent
+                  - text: before it is published to verified sellers.
+                - button "Dismiss" [ref=f3e539] [cursor=pointer]: ×
+              - generic [ref=f3e540]:
+                - button "Back" [ref=f3e541] [cursor=pointer]
+                - button "Publish as a Hot Lead" [ref=f3e545] [cursor=pointer]
+              - button "Skip enrichment - post as basic Active listing" [ref=f3e550] [cursor=pointer]
+            - complementary [ref=f3e551]:
+              - generic [ref=f3e552]:
+                - generic [ref=f3e553]:
+                  - generic [ref=f3e554]: Enrichment Score
+                  - generic [ref=f3e555]: Keep going
+                - generic [ref=f3e556]:
+                  - generic [ref=f3e557]: "35"
+                  - paragraph [ref=f3e561]: High response rate expected
+                - list [ref=f3e562]:
+                  - listitem [ref=f3e563]: Product name & category
+                  - listitem [ref=f3e565]: Quantity & unit
+                  - listitem [ref=f3e567]: Product attributes (0/5 with values)
+                  - listitem [ref=f3e569]: Lead time set
+                  - listitem [ref=f3e571]: Destination & Incoterms
+                  - listitem [ref=f3e573]: Budget range added
+                  - listitem [ref=f3e575]: Payment terms selected
+                  - listitem [ref=f3e577]: Additional details filled in
+              - generic [ref=f3e579]:
+                - generic [ref=f3e580]: Estimated Responses
+                - generic [ref=f3e581]: 6–9
+                - paragraph [ref=f3e582]: quotes in first 24 hours
+    - contentinfo [ref=f3e260]:
+      - generic [ref=f3e261]:
+        - generic [ref=f3e262]:
+          - generic [ref=f3e263]:
+            - generic [ref=f3e264]:
+              - generic [ref=f3e265]:
+                - generic [ref=f3e266]: List your Company
+                - generic [ref=f3e267]: For Free
+              - link "Join as Supplier" [ref=f3e268] [cursor=pointer]:
+                - /url: /authenticate?mode=login
+            - generic [ref=f3e276]:
+              - generic [ref=f3e277]:
+                - generic [ref=f3e278]: Looking to
+                - generic [ref=f3e279]: Source Products?
+              - button "Post Buying Request" [ref=f3e280] [cursor=pointer]
+          - generic [ref=f3e282]:
+            - generic [ref=f3e283]:
+              - generic [ref=f3e284]:
+                - generic [ref=f3e285]: Get to Know Us
+                - generic [ref=f3e287]:
+                  - link "About Pepagora" [ref=f3e288] [cursor=pointer]:
+                    - /url: /aboutus
+                  - link "Leadership" [ref=f3e289] [cursor=pointer]:
+                    - /url: /leadership
+                  - link "Impact at Pepagora" [ref=f3e290] [cursor=pointer]:
+                    - /url: /impact
+                  - link "Partners" [ref=f3e291] [cursor=pointer]:
+                    - /url: /partnership
+                  - link "Careers" [ref=f3e292] [cursor=pointer]:
+                    - /url: /careers
+                  - link "Contact Us" [ref=f3e293] [cursor=pointer]:
+                    - /url: /contact
+              - link "Trust Center" [ref=f3e296] [cursor=pointer]:
+                - /url: /trust
+              - link "Blog" [ref=f3e300] [cursor=pointer]:
+                - /url: https://blog.pepagora.com/
+            - generic [ref=f3e303]:
+              - generic [ref=f3e304]: Industries
+              - generic [ref=f3e306]:
+                - link "Apparel & Fashion" [ref=f3e307] [cursor=pointer]:
+                  - /url: /c/apparel-fashion-mcd6ezr10a
+                - link "Industrial Equipment & Machinery" [ref=f3e308] [cursor=pointer]:
+                  - /url: /c/industrial-equipment-machinery-mcscfd059v
+                - link "Home & Lifestyle" [ref=f3e309] [cursor=pointer]:
+                  - /url: /c/home-lifestyle-mcbjr0v624
+                - link "Health & Personal Care" [ref=f3e310] [cursor=pointer]:
+                  - /url: /c/health-personal-care-mct1ascglc
+                - link "Food & Agriculture" [ref=f3e311] [cursor=pointer]:
+                  - /url: /c/food-agriculture-mcz6e7gd8n
+                - link "Construction & Real Estate" [ref=f3e312] [cursor=pointer]:
+                  - /url: /c/construction-mcu83izpo4
+                - link "Electronics & Electrical" [ref=f3e313] [cursor=pointer]:
+                  - /url: /c/electronics-electrical-mciab97udx
+                - link "Automotive & Transport" [ref=f3e314] [cursor=pointer]:
+                  - /url: /c/automotive-transport-mcpv9ouub9
+                - link "Raw Materials & Chemicals" [ref=f3e315] [cursor=pointer]:
+                  - /url: /c/raw-materials-chemicals-mcdfsbq32t
+                - link "Sports & Entertainment" [ref=f3e316] [cursor=pointer]:
+                  - /url: /c/sports-entertainment-mc7pr5etvq
+                - link "Tools & Hardware" [ref=f3e317] [cursor=pointer]:
+                  - /url: /c/tools-hardware-mcerukri0x
+                - link "Packaging & Printing" [ref=f3e318] [cursor=pointer]:
+                  - /url: /c/packaging-printing-mc2goi58tc
+                - link "Office Supplies & Equipment" [ref=f3e319] [cursor=pointer]:
+                  - /url: /c/office-supplies-equipment-mc1atf45l6
+                - link "Service & Support" [ref=f3e320] [cursor=pointer]:
+                  - /url: /c/services-support-mc29kvv1h8
+            - generic [ref=f3e322]:
+              - generic [ref=f3e323]: Business Tools
+              - generic [ref=f3e325]:
+                - link "Post Sell Offer" [ref=f3e326] [cursor=pointer]:
+                  - /url: /app/sales-sell-offer
+                - link "Create your Business Website" [ref=f3e327] [cursor=pointer]:
+                  - /url: /app/catalogs
+                - link "Manage Your Leads" [ref=f3e328] [cursor=pointer]:
+                  - /url: /app/leads
+                - link "Manage your Customers" [ref=f3e329] [cursor=pointer]:
+                  - /url: /app/sales-connect
+                - button "Post a Buying Request (PBR)" [ref=f3e330] [cursor=pointer]
+                - link "Become a Verified Member" [ref=f3e331] [cursor=pointer]:
+                  - /url: /app/settings/account-settings
+            - generic [ref=f3e332]:
+              - link "Pricing Starting from 10$ per month" [ref=f3e335] [cursor=pointer]:
+                - /url: /pricing
+                - generic [ref=f3e336]: Pricing
+                - generic [ref=f3e337]: Starting from 10$ per month
+              - generic [ref=f3e339]:
+                - generic [ref=f3e340]: Help & Legal
+                - generic [ref=f3e342]:
+                  - link "Help Center" [ref=f3e343] [cursor=pointer]:
+                    - /url: /contact
+                  - link "FAQ's" [ref=f3e344] [cursor=pointer]:
+                    - /url: /faq
+                  - link "Refund & Cancellation" [ref=f3e345] [cursor=pointer]:
+                    - /url: /cancellation
+                  - link "Data Protection Guidelines" [ref=f3e346] [cursor=pointer]:
+                    - /url: /privacy-policy
+                  - link "Terms & Privacy Policy" [ref=f3e347] [cursor=pointer]:
+                    - /url: /terms-of-use
+        - generic [ref=f3e348]:
+          - generic [ref=f3e349]:
+            - generic [ref=f3e351]:
+              - link [ref=f3e352] [cursor=pointer]:
+                - /url: https://www.facebook.com/pepagora
+                - img "Facebook" [ref=f3e353]
+              - link [ref=f3e354] [cursor=pointer]:
+                - /url: https://x.com/Pepagora
+                - img "Twitter" [ref=f3e355]
+              - link [ref=f3e356] [cursor=pointer]:
+                - /url: https://www.youtube.com/@pepagora
+                - img "YouTube" [ref=f3e357]
+              - link [ref=f3e358] [cursor=pointer]:
+                - /url: https://www.instagram.com/pepagora
+                - img "Instagram" [ref=f3e359]
+              - link [ref=f3e360] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pepagora
+                - img "LinkedIn" [ref=f3e361]
+            - img "pepagora-logo" [ref=f3e364]
+          - generic [ref=f3e365]: Copyright © 2026 Pepagora.com All rights reserved
+  - alert [ref=f3e367]

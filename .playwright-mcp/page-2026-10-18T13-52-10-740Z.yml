@@ -1,0 +1,48 @@
+- generic [ref=e1]:
+  - generic [ref=e1028]:
+    - link [ref=e1030] [cursor=pointer]:
+      - /url: /
+      - img "Logo" [ref=e1031]
+    - generic [ref=e1033]:
+      - button "Close" [ref=e1034] [cursor=pointer]
+      - generic [ref=e1037]:
+        - heading "Start Growing." [level=1] [ref=e1038]
+        - heading "Login to your account" [level=2] [ref=e2029]
+      - generic [ref=e1040]:
+        - generic [ref=e1041]:
+          - generic [ref=e1042]: Mobile number
+          - generic [ref=e1045]:
+            - generic [ref=e1046] [cursor=pointer]:
+              - img "Bolivia" [ref=e2028]
+              - generic [ref=e1049]: "+591"
+              - img "Select country" [ref=e1051]
+            - textbox "Enter mobile number" [ref=e1053]
+          - generic [ref=e1054]: Enter a Valid Mobile Number
+        - button "Continue with Phone" [ref=e1055] [cursor=pointer]
+      - heading [level=2] [ref=e1057]:
+        - text: By continuing, you agree to Pepagora's
+        - link "Terms of Use" [ref=e1058] [cursor=pointer]:
+          - /url: /terms-of-use
+        - text: and
+        - link "Privacy Policy" [ref=e1059] [cursor=pointer]:
+          - /url: /privacy-policy
+        - text: .
+      - generic [ref=e1060]: Or
+      - generic [ref=e1063] [cursor=pointer]:
+        - img "Google" [ref=e1064]
+        - generic [ref=e1065]: Continue with Google
+      - generic [ref=e1066]:
+        - generic [ref=e1067]: New to pepagora?
+        - link "Create an account" [active] [ref=e2030] [cursor=pointer]:
+          - /url: /authenticate?mode=signup
+    - list [ref=e1070]:
+      - listitem [ref=e1071]:
+        - link "Help" [ref=e1072] [cursor=pointer]:
+          - /url: /contact
+      - listitem [ref=e1073]:
+        - link "Privacy" [ref=e1074] [cursor=pointer]:
+          - /url: /faq#privacy-policy
+      - listitem [ref=e1075]:
+        - link "Terms" [ref=e1076] [cursor=pointer]:
+          - /url: /faq#-terms-of-use-
+  - alert [ref=e476]: Supplier & Buyer Authentication | Secure B2B Marketplace

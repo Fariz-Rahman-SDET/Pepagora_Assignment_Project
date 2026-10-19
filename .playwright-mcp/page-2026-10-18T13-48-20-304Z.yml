@@ -1,0 +1,255 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic:
+        - generic [ref=e5]:
+          - generic [ref=e6]:
+            - link [ref=e7] [cursor=pointer]:
+              - /url: /
+              - img "Logo" [ref=e8]
+            - generic [ref=e9]: All Categories
+          - generic [ref=e16]:
+            - img [ref=e18] [cursor=pointer]
+            - searchbox "Search for Product and Services" [ref=e20]
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - button "en English" [ref=e26] [cursor=pointer]:
+                - generic [ref=e27]:
+                  - img "en" [ref=e28]
+                  - generic [ref=e29]: English
+              - generic [ref=e30]:
+                - img "Country Flag" [ref=e31] [cursor=pointer]
+                - generic [ref=e32]: IN
+              - generic [ref=e34] [cursor=pointer]:
+                - generic [ref=e35]: ₹
+                - button [ref=e36]
+            - generic [ref=e39]:
+              - button "Buy" [ref=e40] [cursor=pointer]
+              - button "Sell" [ref=e44] [cursor=pointer]
+            - generic [ref=e259]:
+              - link "Login" [ref=e260] [cursor=pointer]:
+                - /url: /authenticate?mode=login
+              - link "Join Free" [ref=e261] [cursor=pointer]:
+                - /url: /authenticate?mode=signup
+        - generic [ref=e49]:
+          - tablist [ref=e50]:
+            - tab "Apparel & Fashion" [selected] [ref=e51] [cursor=pointer]
+            - tab "Automotive & Transport" [ref=e55] [cursor=pointer]
+            - tab "Construction" [ref=e60] [cursor=pointer]
+            - tab "Electronics & Electrical" [ref=e67] [cursor=pointer]
+            - tab "Food & Agriculture" [ref=e71] [cursor=pointer]
+            - tab "Health & Personal Care" [ref=e75] [cursor=pointer]
+            - tab "Home & Lifestyle" [ref=e80] [cursor=pointer]
+            - tab "Industrial Equipment & Machinery" [ref=e86] [cursor=pointer]
+            - tab "Office Supplies & Equipment" [ref=e99] [cursor=pointer]
+            - tab "Packaging & Printing" [ref=e105] [cursor=pointer]
+            - tab "Raw Materials & Chemicals" [ref=e111] [cursor=pointer]
+            - tab "Services & Support" [ref=e117] [cursor=pointer]
+            - tab "Sports & Entertainment" [ref=e122] [cursor=pointer]
+            - tab "Tools & Hardware" [ref=e126] [cursor=pointer]
+          - tabpanel [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: Apparel & Fashion
+              - button "Close category" [ref=e134] [cursor=pointer]
+            - generic "Loading subcategories" [ref=e138]
+      - generic [ref=e140]:
+        - generic [ref=e142]:
+          - generic [ref=e143] [cursor=pointer]:
+            - link [ref=e144]:
+              - /url: /
+            - generic [ref=e147]: /
+          - generic [ref=e148]: post-buying-request
+        - generic [ref=e262]:
+          - generic [ref=e264]:
+            - heading "Post Buying Requirement" [level=3] [ref=e265]
+            - generic "Post buying request steps" [ref=e266]:
+              - generic [ref=e269]:
+                - generic [aria-hidden] [ref=e270]: "1"
+                - generic [ref=e271]: Quick Post
+              - generic [ref=e275]:
+                - generic [aria-hidden] [ref=e276]: "2"
+                - generic [ref=e277]: Enrich for Better Responses
+              - generic [ref=e280]:
+                - generic [aria-hidden] [ref=e281]: "3"
+                - generic [ref=e282]: Live & Receiving Quotes
+          - generic [ref=e284]:
+            - generic [ref=e285]:
+              - heading "What are you looking for?" [level=4] [ref=e286]
+              - generic [ref=e287]: Takes less than a minute. Just the basics - add details after to attract better suppliers.
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - generic [ref=e290]: Product Name
+                - combobox "e.g. Brazilian Virgin Hair, Organic Cotton T Shirts..." [ref=e294]
+                - generic [ref=e295]: "Tip: Be specific - \"100% virgin Brazilian\" gets you better matches. Leave the field to load AI category ideas."
+                - generic [ref=e296]: Product name is required
+              - generic [ref=e297]:
+                - generic [ref=e298]: Quantity Required - How much do you need?
+                - generic [ref=e299]:
+                  - textbox "1" [ref=e302]
+                  - generic [ref=e305] [cursor=pointer]:
+                    - generic [ref=e306]: Piece
+                    - button "Unit" [ref=e307]
+              - generic [ref=e311]:
+                - button "Enriched post Recommended Quotes expected 6–9 Hot Lead status Spec-matched sellers AI quality moderation" [ref=e312] [cursor=pointer]:
+                  - generic [ref=e314]:
+                    - generic [ref=e315]: Enriched post
+                    - generic [ref=e316]: Recommended
+                  - generic [ref=e318]:
+                    - generic [ref=e321]:
+                      - paragraph [ref=e322]: Quotes expected
+                      - paragraph [ref=e323]: 6–9
+                    - list [ref=e325]:
+                      - listitem [ref=e326]: Hot Lead status
+                      - listitem [ref=e327]: Spec-matched sellers
+                      - listitem [ref=e328]: AI quality moderation
+                - button "Post basic Quotes expected 3–5 Hot Lead status Category-matched Basic listing live" [ref=e329] [cursor=pointer]:
+                  - generic [ref=e330]: Post basic
+                  - generic [ref=e334]:
+                    - generic [ref=e337]:
+                      - paragraph [ref=e338]: Quotes expected
+                      - paragraph [ref=e339]: 3–5
+                    - list [ref=e341]:
+                      - listitem [ref=e342]: Hot Lead status
+                      - listitem [ref=e343]: Category-matched
+                      - listitem [ref=e344]: Basic listing live
+            - generic [ref=e345]:
+              - generic [ref=e346]: What happens when you submit?
+              - generic [ref=e347]:
+                - generic [ref=e348]:
+                  - generic [ref=e349]: "1"
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: Lead captured instantly
+                    - generic [ref=e352]: Your requirement is saved. You'll get a confirmation immediately.
+                - generic [ref=e353]:
+                  - generic [ref=e354]: "2"
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: We ask a few more questions (~3 min)
+                    - generic [ref=e357]: Optional but powerful - helps you attract the right sellers and get accurate quotes.
+                - generic [ref=e358]:
+                  - generic [ref=e359]: "3"
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: Posted to verified sellers
+                    - generic [ref=e362]: Enriched requests go as Hot Lead (7 slots). Basic posts go as Active (5 slots).
+            - generic [ref=e363]:
+              - button "Continue to Enrich" [ref=e364] [cursor=pointer]
+              - paragraph [ref=e368]: No credit card required - Free to post
+    - contentinfo [ref=e369]:
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - generic [ref=e373]:
+              - generic [ref=e374]:
+                - generic [ref=e375]: List your Company
+                - generic [ref=e376]: For Free
+              - link "Join as Supplier" [ref=e377] [cursor=pointer]:
+                - /url: /authenticate?mode=login
+            - generic [ref=e385]:
+              - generic [ref=e386]:
+                - generic [ref=e387]: Looking to
+                - generic [ref=e388]: Source Products?
+              - button "Post Buying Request" [ref=e389] [cursor=pointer]
+          - generic [ref=e391]:
+            - generic [ref=e392]:
+              - generic [ref=e393]:
+                - generic [ref=e394]: Get to Know Us
+                - generic [ref=e396]:
+                  - link "About Pepagora" [ref=e397] [cursor=pointer]:
+                    - /url: /aboutus
+                  - link "Leadership" [ref=e398] [cursor=pointer]:
+                    - /url: /leadership
+                  - link "Impact at Pepagora" [ref=e399] [cursor=pointer]:
+                    - /url: /impact
+                  - link "Partners" [ref=e400] [cursor=pointer]:
+                    - /url: /partnership
+                  - link "Careers" [ref=e401] [cursor=pointer]:
+                    - /url: /careers
+                  - link "Contact Us" [ref=e402] [cursor=pointer]:
+                    - /url: /contact
+              - link "Trust Center" [ref=e405] [cursor=pointer]:
+                - /url: /trust
+              - link "Blog" [ref=e409] [cursor=pointer]:
+                - /url: https://blog.pepagora.com/
+            - generic [ref=e412]:
+              - generic [ref=e413]: Industries
+              - generic [ref=e415]:
+                - link "Apparel & Fashion" [ref=e416] [cursor=pointer]:
+                  - /url: /c/apparel-fashion-mcd6ezr10a
+                - link "Industrial Equipment & Machinery" [ref=e417] [cursor=pointer]:
+                  - /url: /c/industrial-equipment-machinery-mcscfd059v
+                - link "Home & Lifestyle" [ref=e418] [cursor=pointer]:
+                  - /url: /c/home-lifestyle-mcbjr0v624
+                - link "Health & Personal Care" [ref=e419] [cursor=pointer]:
+                  - /url: /c/health-personal-care-mct1ascglc
+                - link "Food & Agriculture" [ref=e420] [cursor=pointer]:
+                  - /url: /c/food-agriculture-mcz6e7gd8n
+                - link "Construction & Real Estate" [ref=e421] [cursor=pointer]:
+                  - /url: /c/construction-mcu83izpo4
+                - link "Electronics & Electrical" [ref=e422] [cursor=pointer]:
+                  - /url: /c/electronics-electrical-mciab97udx
+                - link "Automotive & Transport" [ref=e423] [cursor=pointer]:
+                  - /url: /c/automotive-transport-mcpv9ouub9
+                - link "Raw Materials & Chemicals" [ref=e424] [cursor=pointer]:
+                  - /url: /c/raw-materials-chemicals-mcdfsbq32t
+                - link "Sports & Entertainment" [ref=e425] [cursor=pointer]:
+                  - /url: /c/sports-entertainment-mc7pr5etvq
+                - link "Tools & Hardware" [ref=e426] [cursor=pointer]:
+                  - /url: /c/tools-hardware-mcerukri0x
+                - link "Packaging & Printing" [ref=e427] [cursor=pointer]:
+                  - /url: /c/packaging-printing-mc2goi58tc
+                - link "Office Supplies & Equipment" [ref=e428] [cursor=pointer]:
+                  - /url: /c/office-supplies-equipment-mc1atf45l6
+                - link "Service & Support" [ref=e429] [cursor=pointer]:
+                  - /url: /c/services-support-mc29kvv1h8
+            - generic [ref=e431]:
+              - generic [ref=e432]: Business Tools
+              - generic [ref=e434]:
+                - link "Post Sell Offer" [ref=e435] [cursor=pointer]:
+                  - /url: /app/sales-sell-offer
+                - link "Create your Business Website" [ref=e436] [cursor=pointer]:
+                  - /url: /app/catalogs
+                - link "Manage Your Leads" [ref=e437] [cursor=pointer]:
+                  - /url: /app/leads
+                - link "Manage your Customers" [ref=e438] [cursor=pointer]:
+                  - /url: /app/sales-connect
+                - button "Post a Buying Request (PBR)" [ref=e439] [cursor=pointer]
+                - link "Become a Verified Member" [ref=e440] [cursor=pointer]:
+                  - /url: /app/settings/account-settings
+            - generic [ref=e441]:
+              - link "Pricing Starting from 10$ per month" [ref=e444] [cursor=pointer]:
+                - /url: /pricing
+                - generic [ref=e445]: Pricing
+                - generic [ref=e446]: Starting from 10$ per month
+              - generic [ref=e448]:
+                - generic [ref=e449]: Help & Legal
+                - generic [ref=e451]:
+                  - link "Help Center" [ref=e452] [cursor=pointer]:
+                    - /url: /contact
+                  - link "FAQ's" [ref=e453] [cursor=pointer]:
+                    - /url: /faq
+                  - link "Refund & Cancellation" [ref=e454] [cursor=pointer]:
+                    - /url: /cancellation
+                  - link "Data Protection Guidelines" [ref=e455] [cursor=pointer]:
+                    - /url: /privacy-policy
+                  - link "Terms & Privacy Policy" [ref=e456] [cursor=pointer]:
+                    - /url: /terms-of-use
+        - generic [ref=e457]:
+          - generic [ref=e458]:
+            - generic [ref=e460]:
+              - link [ref=e461] [cursor=pointer]:
+                - /url: https://www.facebook.com/pepagora
+                - img "Facebook" [ref=e462]
+              - link [ref=e463] [cursor=pointer]:
+                - /url: https://x.com/Pepagora
+                - img "Twitter" [ref=e464]
+              - link [ref=e465] [cursor=pointer]:
+                - /url: https://www.youtube.com/@pepagora
+                - img "YouTube" [ref=e466]
+              - link [ref=e467] [cursor=pointer]:
+                - /url: https://www.instagram.com/pepagora
+                - img "Instagram" [ref=e468]
+              - link [ref=e469] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pepagora
+                - img "LinkedIn" [ref=e470]
+            - img "pepagora-logo" [ref=e473]
+          - generic [ref=e474]: Copyright © 2026 Pepagora.com All rights reserved
+  - alert [ref=e476]

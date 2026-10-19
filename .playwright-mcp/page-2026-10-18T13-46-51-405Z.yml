@@ -1,0 +1,173 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+            - img "Logo" [ref=e8]
+          - generic [ref=e9]: All Categories
+        - generic [ref=e16]:
+          - img [ref=e18] [cursor=pointer]
+          - searchbox "Search for Product and Services" [ref=e20]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - button "en English" [ref=e26] [cursor=pointer]:
+              - generic [ref=e27]:
+                - img "en" [ref=e28]
+                - generic [ref=e29]: English
+            - generic [ref=e30]:
+              - img "Country Flag" [ref=e31] [cursor=pointer]
+              - generic [ref=e32]: IN
+            - generic [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: ₹
+              - button [ref=e36]
+          - generic [ref=e39]:
+            - button "Buy" [ref=e40] [cursor=pointer]
+            - button "Sell" [ref=e44] [cursor=pointer]
+      - generic [ref=e49]:
+        - tablist [ref=e50]:
+          - tab "Apparel & Fashion" [selected] [ref=e51] [cursor=pointer]
+          - tab "Automotive & Transport" [ref=e55] [cursor=pointer]
+          - tab "Construction" [ref=e60] [cursor=pointer]
+          - tab "Electronics & Electrical" [ref=e67] [cursor=pointer]
+          - tab "Food & Agriculture" [ref=e71] [cursor=pointer]
+          - tab "Health & Personal Care" [ref=e75] [cursor=pointer]
+          - tab "Home & Lifestyle" [ref=e80] [cursor=pointer]
+          - tab "Industrial Equipment & Machinery" [ref=e86] [cursor=pointer]
+          - tab "Office Supplies & Equipment" [ref=e99] [cursor=pointer]
+          - tab "Packaging & Printing" [ref=e105] [cursor=pointer]
+          - tab "Raw Materials & Chemicals" [ref=e111] [cursor=pointer]
+          - tab "Services & Support" [ref=e117] [cursor=pointer]
+          - tab "Sports & Entertainment" [ref=e122] [cursor=pointer]
+          - tab "Tools & Hardware" [ref=e126] [cursor=pointer]
+        - tabpanel [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e133]: Apparel & Fashion
+            - button "Close category" [ref=e134] [cursor=pointer]
+          - generic "Loading subcategories" [ref=e138]
+    - generic [ref=e142]:
+      - generic [ref=e143] [cursor=pointer]:
+        - link [ref=e144]:
+          - /url: /
+        - generic [ref=e147]: /
+      - generic [ref=e148]: post-buying-request
+  - contentinfo [ref=e152]:
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: List your Company
+              - generic [ref=e159]: For Free
+            - link "Join as Supplier" [ref=e160] [cursor=pointer]:
+              - /url: /authenticate?mode=login
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: Looking to
+              - generic [ref=e171]: Source Products?
+            - button "Post Buying Request" [ref=e172] [cursor=pointer]
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: Get to Know Us
+              - generic [ref=e179]:
+                - link "About Pepagora" [ref=e180] [cursor=pointer]:
+                  - /url: /aboutus
+                - link "Leadership" [ref=e181] [cursor=pointer]:
+                  - /url: /leadership
+                - link "Impact at Pepagora" [ref=e182] [cursor=pointer]:
+                  - /url: /impact
+                - link "Partners" [ref=e183] [cursor=pointer]:
+                  - /url: /partnership
+                - link "Careers" [ref=e184] [cursor=pointer]:
+                  - /url: /careers
+                - link "Contact Us" [ref=e185] [cursor=pointer]:
+                  - /url: /contact
+            - link "Trust Center" [ref=e188] [cursor=pointer]:
+              - /url: /trust
+            - link "Blog" [ref=e192] [cursor=pointer]:
+              - /url: https://blog.pepagora.com/
+          - generic [ref=e195]:
+            - generic [ref=e196]: Industries
+            - generic [ref=e198]:
+              - link "Apparel & Fashion" [ref=e199] [cursor=pointer]:
+                - /url: /c/apparel-fashion-mcd6ezr10a
+              - link "Industrial Equipment & Machinery" [ref=e200] [cursor=pointer]:
+                - /url: /c/industrial-equipment-machinery-mcscfd059v
+              - link "Home & Lifestyle" [ref=e201] [cursor=pointer]:
+                - /url: /c/home-lifestyle-mcbjr0v624
+              - link "Health & Personal Care" [ref=e202] [cursor=pointer]:
+                - /url: /c/health-personal-care-mct1ascglc
+              - link "Food & Agriculture" [ref=e203] [cursor=pointer]:
+                - /url: /c/food-agriculture-mcz6e7gd8n
+              - link "Construction & Real Estate" [ref=e204] [cursor=pointer]:
+                - /url: /c/construction-mcu83izpo4
+              - link "Electronics & Electrical" [ref=e205] [cursor=pointer]:
+                - /url: /c/electronics-electrical-mciab97udx
+              - link "Automotive & Transport" [ref=e206] [cursor=pointer]:
+                - /url: /c/automotive-transport-mcpv9ouub9
+              - link "Raw Materials & Chemicals" [ref=e207] [cursor=pointer]:
+                - /url: /c/raw-materials-chemicals-mcdfsbq32t
+              - link "Sports & Entertainment" [ref=e208] [cursor=pointer]:
+                - /url: /c/sports-entertainment-mc7pr5etvq
+              - link "Tools & Hardware" [ref=e209] [cursor=pointer]:
+                - /url: /c/tools-hardware-mcerukri0x
+              - link "Packaging & Printing" [ref=e210] [cursor=pointer]:
+                - /url: /c/packaging-printing-mc2goi58tc
+              - link "Office Supplies & Equipment" [ref=e211] [cursor=pointer]:
+                - /url: /c/office-supplies-equipment-mc1atf45l6
+              - link "Service & Support" [ref=e212] [cursor=pointer]:
+                - /url: /c/services-support-mc29kvv1h8
+          - generic [ref=e214]:
+            - generic [ref=e215]: Business Tools
+            - generic [ref=e217]:
+              - link "Post Sell Offer" [ref=e218] [cursor=pointer]:
+                - /url: /app/sales-sell-offer
+              - link "Create your Business Website" [ref=e219] [cursor=pointer]:
+                - /url: /app/catalogs
+              - link "Manage Your Leads" [ref=e220] [cursor=pointer]:
+                - /url: /app/leads
+              - link "Manage your Customers" [ref=e221] [cursor=pointer]:
+                - /url: /app/sales-connect
+              - button "Post a Buying Request (PBR)" [ref=e222] [cursor=pointer]
+              - link "Become a Verified Member" [ref=e223] [cursor=pointer]:
+                - /url: /app/settings/account-settings
+          - generic [ref=e224]:
+            - link "Pricing Starting from 10$ per month" [ref=e227] [cursor=pointer]:
+              - /url: /pricing
+              - generic [ref=e228]: Pricing
+              - generic [ref=e229]: Starting from 10$ per month
+            - generic [ref=e231]:
+              - generic [ref=e232]: Help & Legal
+              - generic [ref=e234]:
+                - link "Help Center" [ref=e235] [cursor=pointer]:
+                  - /url: /contact
+                - link "FAQ's" [ref=e236] [cursor=pointer]:
+                  - /url: /faq
+                - link "Refund & Cancellation" [ref=e237] [cursor=pointer]:
+                  - /url: /cancellation
+                - link "Data Protection Guidelines" [ref=e238] [cursor=pointer]:
+                  - /url: /privacy-policy
+                - link "Terms & Privacy Policy" [ref=e239] [cursor=pointer]:
+                  - /url: /terms-of-use
+      - generic [ref=e240]:
+        - generic [ref=e241]:
+          - generic [ref=e243]:
+            - link [ref=e244] [cursor=pointer]:
+              - /url: https://www.facebook.com/pepagora
+              - img "Facebook" [ref=e245]
+            - link [ref=e246] [cursor=pointer]:
+              - /url: https://x.com/Pepagora
+              - img "Twitter" [ref=e247]
+            - link [ref=e248] [cursor=pointer]:
+              - /url: https://www.youtube.com/@pepagora
+              - img "YouTube" [ref=e249]
+            - link [ref=e250] [cursor=pointer]:
+              - /url: https://www.instagram.com/pepagora
+              - img "Instagram" [ref=e251]
+            - link [ref=e252] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/pepagora
+              - img "LinkedIn" [ref=e253]
+          - img "pepagora-logo" [ref=e256]
+        - generic [ref=e257]: Copyright © 2026 Pepagora.com All rights reserved

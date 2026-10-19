@@ -1,0 +1,6 @@
+[    2028ms] [ERROR] Mixed Content: The page at 'https://www.sandbox.pepagora.org/post-buying-request' was loaded over HTTPS, but requested an insecure favicon 'http://www.sandbox.pepagora.org/favicon.ico'. This request has been blocked; the content must be served over HTTPS. @ https://www.sandbox.pepagora.org/post-buying-request:0
+[    2054ms] [ERROR] Mixed Content: The page at 'https://www.sandbox.pepagora.org/post-buying-request' was loaded over HTTPS, but requested an insecure favicon 'http://www.sandbox.pepagora.org/favicon.ico'. This request has been blocked; the content must be served over HTTPS. @ https://www.sandbox.pepagora.org/post-buying-request:0
+[    2283ms] [LOG] {countryCookie: SW5kaWE%3D, cityCookie: UGFsYWtrYWQ%3D, regionCookie: S2VyYWxh} @ https://www.sandbox.pepagora.org/_next/static/chunks/app/%5Blocale%5D/layout-ffa47957e75e22db.js:0
+[    2285ms] [LOG] {country: India, city: Palakkad, countryCode: IN, region: Kerala} @ https://www.sandbox.pepagora.org/_next/static/chunks/app/%5Blocale%5D/layout-ffa47957e75e22db.js:0
+[    5848ms] [ERROR] Provider's accounts list is empty. @ https://www.sandbox.pepagora.org/post-buying-request:0
+[    8695ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.sandbox.pepagora.org/_next/static/chunks/6359-8277513b6ee62791.js:0

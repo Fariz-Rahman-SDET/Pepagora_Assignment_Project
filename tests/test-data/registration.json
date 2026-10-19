@@ -1,0 +1,10 @@
+{
+  "expected": {
+    "signupHeading": "Create free account",
+    "mobileNumberLabel": "Mobile number",
+    "verificationMessage": "We’ll be sending code to verify your number.",
+    "invalidMobileMessage": "Enter a Valid Mobile Number",
+    "googleContinueLabel": "Continue with Google"
+  },
+  "invalidMobileNumber": "12345"
+}
